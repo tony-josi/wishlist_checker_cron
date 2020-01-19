@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import threading
+import time
 
 def get_price(link, op_id):
     page = requests.get(link)
@@ -18,6 +19,12 @@ def file_len(fname):
         for i, l in enumerate(fp):
             pass
     return i + 1
+
+def op_to_file():
+    op_file_name = "wl_prices_" + str(int(time.time())) + ".txt"
+    with open(op_file_name, 'w') as f:
+        for item in op_price_list:
+            f.write("%s\n" % item)
 
 if __name__ == '__main__':
 
@@ -89,5 +96,5 @@ if __name__ == '__main__':
             worker_4.start()
         ip_cntr += 1
         
-    
-    print(op_price_list)
+    op_to_file()
+    # print(op_price_list)
