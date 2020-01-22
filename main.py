@@ -16,7 +16,7 @@ def get_price(link, op_id):
 
 def file_len(fname):
     with open(fname) as fp:
-        for i, l in enumerate(fp):
+        for i, _ in enumerate(fp):
             pass
     return i + 1
 
@@ -43,6 +43,7 @@ if __name__ == '__main__':
     worker_4 = None
 
     ip_cntr = 0
+    start_time = time.time()
     while True:
 
         if exit_flag:
@@ -95,6 +96,16 @@ if __name__ == '__main__':
             worker_4 = threading.Thread(target = get_price, args=(line4, ip_cntr,))
             worker_4.start()
         ip_cntr += 1
-        
+
+        try:
+            # print("Exit")
+            worker_1.join()
+            worker_2.join()
+            worker_3.join()
+            worker_4.join()
+        except:
+            pass
+    
+    print("Exec. time:      {}".format(time.time() - start_time))
     op_to_file()
     # print(op_price_list)
