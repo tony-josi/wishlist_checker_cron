@@ -2,6 +2,8 @@ from bs4 import BeautifulSoup
 import requests
 import threading
 import time
+import datetime
+import sys
 
 def get_price(link, op_id):
     page = requests.get(link)
@@ -20,11 +22,30 @@ def file_len(fname):
             pass
     return i + 1
 
-def op_to_file():
-    op_file_name = "wl_prices_" + str(int(time.time())) + ".txt"
-    with open(op_file_name, 'w') as f:
+def op_to_file(dest):
+    if (dest == 0):
+        time_stmp = str(hex(int(time.time())))
+        op_file_name = "wl_prices_" + time_stmp[2:] + ".txt"
+        op_mode = 'w'
+    else:
+        op_file_name = "wl_prices_master.txt"
+        op_mode = 'a'
+    
+    with open(op_file_name, op_mode) as f:
+        if (dest != 0):
+            f.write("\n\n")
+            f.write("|------------------------------------------------------------------------------------|\n")
+            date_time = "|  / / / / / / / / / / /      " + str(datetime.datetime.now()) + "      / / / / / / / / / / /  |"
+            f.write("%s\n" % date_time)
+            f.write("|------------------------------------------------------------------------------------|\n")
+
         for item in op_price_list:
             f.write("%s\n" % item)
+
+        if (dest != 0):
+            f.write("|------------------------------------------------------------------------------------|\n")
+
+
 
 if __name__ == '__main__':
 
@@ -107,5 +128,11 @@ if __name__ == '__main__':
             pass
     
     print("Exec. time:      {}".format(time.time() - start_time))
-    op_to_file()
+    if (len(sys.argv) > 1):
+        if (sys.argv[1] == 's'):
+            op_to_file(0)
+        else:
+            op_to_file(1)
+    else:
+        op_to_file(1)
     # print(op_price_list)
