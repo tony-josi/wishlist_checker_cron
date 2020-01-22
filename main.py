@@ -25,7 +25,7 @@ def file_len(fname):
 def op_to_file(dest):
     if (dest == 0):
         time_stmp = str(hex(int(time.time())))
-        op_file_name = "wl_prices_" + time_stmp[2:] + ".txt"
+        op_file_name = "wl_prices_s_" + time_stmp[2:] + ".txt"
         op_mode = 'w'
     else:
         op_file_name = "wl_prices_master.txt"
