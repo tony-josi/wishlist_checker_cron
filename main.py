@@ -11,12 +11,19 @@ def get_price(link, op_id):
     soup = BeautifulSoup(page.content, 'html5lib')
     results = soup.find(
         'div', attrs={'class': '_3Z5yZS NDB7oB _12iFZG _3PG6Wd'})
+
+    
     price = results.findAll('div', attrs={'class': '_1vC4OE _3qQ9m1'})
-    # print(results)
     price = str(price)
     price_rate_lt = price.split("₹", 1)
     price_rate_rt = price_rate_lt[1].split("<", 1)
-    op_price_list[op_id] = price_rate_rt[0]
+
+    item_tags = results.findAll('span', attrs={'class': '_35KyD6'})
+    item_tags = str(item_tags)
+    item_tags_list = item_tags.split(">", 1)
+    item_tags_list_lt = item_tags_list[1].split("<", 1)
+
+    op_price_list[op_id] = [item_tags_list_lt[0], price_rate_rt[0]]
     # print(price_rate_rt[0])
 
 
@@ -60,7 +67,7 @@ def op_to_file(dest):
                 "|------------------------------------------------------------------------------------|\n")
 
         for item in op_price_list:
-            f.write("%s\n" % item)
+            f.write("%s\n" % op_price_list[item])
 
         if (dest != 0):
             f.write(
@@ -76,7 +83,7 @@ if __name__ == '__main__':
     ip_count = file_len(ip_filepath)
     # print(ip_count)
 
-    op_price_list = [0] * ip_count
+    op_price_list = {}
     exit_flag = 0
 
     worker_1 = None
