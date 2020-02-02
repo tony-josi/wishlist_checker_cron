@@ -4,6 +4,7 @@ import threading
 import time
 import datetime
 import sys
+import platform
 
 
 def get_price(link, op_id):
@@ -18,12 +19,24 @@ def get_price(link, op_id):
     price_rate_lt = price.split("₹", 1)
     price_rate_rt = price_rate_lt[1].split("<", 1)
 
+    brand_tags = results.findAll('span', attrs={'class': '_2J4LW6'})
+    brand_tags = str(brand_tags)
+    brand_tags_list_lt = [0] * 2
+    if len(brand_tags) > 2:
+        try:
+            brand_tags_list = brand_tags.split(">", 1)
+            brand_tags_list_lt = brand_tags_list[1].split("<", 1)
+        except:
+            brand_tags_list_lt[0] = brand_tags
+    else:
+        brand_tags_list_lt[0] = "brand_name_null" 
+
     item_tags = results.findAll('span', attrs={'class': '_35KyD6'})
     item_tags = str(item_tags)
     item_tags_list = item_tags.split(">", 1)
     item_tags_list_lt = item_tags_list[1].split("<", 1)
 
-    op_price_list[op_id] = [item_tags_list_lt[0], price_rate_rt[0]]
+    op_price_list[op_id] = [brand_tags_list_lt[0], item_tags_list_lt[0], "₹ " + price_rate_rt[0]]
     # print(price_rate_rt[0])
 
 
@@ -59,19 +72,26 @@ def op_to_file(dest):
             f.seek(0)
             f.write("\n\n")
             f.write(
-                "|------------------------------------------------------------------------------------|\n")
-            date_time = "|  / / / / / / / / / / /      " + \
-                str(datetime.datetime.now()) + "      / / / / / / / / / / /  |"
+                "|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n")
+            date_time = "|  / / / / / / / / / / / / / / / / / / / / / /      " + \
+                str(datetime.datetime.now()) + "     / / / / / / / / / / / / / / / / / / / / / /  |"
             f.write("%s\n" % date_time)
             f.write(
-                "|------------------------------------------------------------------------------------|\n")
+                "|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n")
+        
+        f.write("\n")
+        for i in range(ip_count):
+            f.write("{:3s} {:13s} {:18s} {:80s} \n".format(str(i + 1), op_price_list[i][2], op_price_list[i][0], op_price_list[i][1]))
+        
+        f.write("\n\n")
+        f.write("Exec. time:      {}\n".format(time_spend))
+        f.write(str(platform.uname()) + "\n")
+        f.write("\n\n")
 
-        for item in op_price_list:
-            f.write("%s\n" % op_price_list[item])
 
         if (dest != 0):
             f.write(
-                "|------------------------------------------------------------------------------------|\n")
+                "|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n")
             f.write(old_data)
 
 
@@ -159,7 +179,8 @@ if __name__ == '__main__':
         except:
             pass
 
-    print("Exec. time:      {}".format(time.time() - start_time))
+    time_spend = time.time() - start_time
+    print("Exec. time:      {}".format(time_spend))
     if (len(sys.argv) > 1):
         if (sys.argv[1] == 's'):
             op_to_file(0)
