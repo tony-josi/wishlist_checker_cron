@@ -1,5 +1,330 @@
 
 
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  / / / / / / / / / / / / / / / / / / / / / /      2020-02-02 15:18:40.027312     / / / / / / / / / / / / / / / / / / / / / /  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+1   ₹ 709         brand_name_null    Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
+2   ₹ 719         brand_name_null    Portronics MyBuddy Hexa II POR-571 Laptop Stand                                  
+3   ₹ 711         brand_name_null    spincart Adjustable Laptop Stand Laptop Stand                                    
+4   ₹ 699         brand_name_null    dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
+5   ₹ 1,799       brand_name_null    ELV Adjustable Laptop Stand                                                      
+6   ₹ 1,099       brand_name_null    Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand 
+7   ₹ 2,956       Nike               REVOLUTION 5 Running Shoes For Men                                               
+8   ₹ 61,990      brand_name_null    Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466 
+9   ₹ 1,12,990    brand_name_null    Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A    
+10  ₹ 1,06,990    brand_name_null    Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A    
+
+
+Exec. time:      4.813405990600586
+uname_result(system='Darwin', node='Tonys-MacBook-Air.local', release='19.2.0', version='Darwin Kernel Version 19.2.0: Sat Nov  9 03:47:04 PST 2019; root:xnu-6153.61.1~20/RELEASE_X86_64', machine='x86_64', processor='i386')
+
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  / / / / / / / / / / / / / / / / / / / / / /      2020-02-02 15:17:58.338635     / / / / / / / / / / / / / / / / / / / / / /  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+1   ₹ 709         brand_name_null    Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
+2   ₹ 719         brand_name_null    Portronics MyBuddy Hexa II POR-571 Laptop Stand                                  
+3   ₹ 711         brand_name_null    spincart Adjustable Laptop Stand Laptop Stand                                    
+4   ₹ 699         brand_name_null    dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
+5   ₹ 1,799       brand_name_null    ELV Adjustable Laptop Stand                                                      
+6   ₹ 1,099       brand_name_null    Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand 
+7   ₹ 2,956       Nike               REVOLUTION 5 Running Shoes For Men                                               
+8   ₹ 61,990      brand_name_null    Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466 
+9   ₹ 1,12,990    brand_name_null    Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A    
+10  ₹ 1,06,990    brand_name_null    Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A    
+
+
+Exec. time:      3.9912118911743164
+uname_result(system='Darwin', node='Tonys-MacBook-Air.local', release='19.2.0', version='Darwin Kernel Version 19.2.0: Sat Nov  9 03:47:04 PST 2019; root:xnu-6153.61.1~20/RELEASE_X86_64', machine='x86_64', processor='i386')
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  / / / / / / / / / / / / / / / / / / / / / /      2020-02-02 15:17:06.920611     / / / / / / / / / / / / / / / / / / / / / /  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+1   ₹ 709         brand_name_null    Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
+2   ₹ 719         brand_name_null    Portronics MyBuddy Hexa II POR-571 Laptop Stand                                  
+3   ₹ 711         brand_name_null    spincart Adjustable Laptop Stand Laptop Stand                                    
+4   ₹ 699         brand_name_null    dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
+5   ₹ 1,799       brand_name_null    ELV Adjustable Laptop Stand                                                      
+6   ₹ 1,099       brand_name_null    Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand 
+7   ₹ 2,956       Nike               REVOLUTION 5 Running Shoes For Men                                               
+8   ₹ 61,990      brand_name_null    Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466 
+9   ₹ 1,12,990    brand_name_null    Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A    
+10  ₹ 1,06,990    brand_name_null    Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A    
+Exec. time:      6.480874300003052
+uname_result(system='Darwin', node='Tonys-MacBook-Air.local', release='19.2.0', version='Darwin Kernel Version 19.2.0: Sat Nov  9 03:47:04 PST 2019; root:xnu-6153.61.1~20/RELEASE_X86_64', machine='x86_64', processor='i386')
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  / / / / / / / / / / / / / / / / / / / / / /      2020-02-02 15:16:47.471001     / / / / / / / / / / / / / / / / / / / / / /  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+1   ₹ 709         brand_name_null    Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
+2   ₹ 719         brand_name_null    Portronics MyBuddy Hexa II POR-571 Laptop Stand                                  
+3   ₹ 711         brand_name_null    spincart Adjustable Laptop Stand Laptop Stand                                    
+4   ₹ 699         brand_name_null    dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
+5   ₹ 1,799       brand_name_null    ELV Adjustable Laptop Stand                                                      
+6   ₹ 1,099       brand_name_null    Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand 
+7   ₹ 2,956       Nike               REVOLUTION 5 Running Shoes For Men                                               
+8   ₹ 61,990      brand_name_null    Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466 
+9   ₹ 1,12,990    brand_name_null    Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A    
+10  ₹ 1,06,990    brand_name_null    Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A    
+Exec. time:      2.894129991531372
+--------------------------------------------------------------------------------------------------------------------------------------|
+
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  / / / / / / / / / / / / / / / / / / / / / /      2020-02-02 15:11:55.796378     / / / / / / / / / / / / / / / / / / / / / /  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+1   ₹ 709      brand_name_null    Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
+2   ₹ 719      brand_name_null    Portronics MyBuddy Hexa II POR-571 Laptop Stand                                  
+3   ₹ 711      brand_name_null    spincart Adjustable Laptop Stand Laptop Stand                                    
+4   ₹ 699      brand_name_null    dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
+5   ₹ 1,799    brand_name_null    ELV Adjustable Laptop Stand                                                      
+6   ₹ 1,099    brand_name_null    Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand 
+7   ₹ 2,956    Nike               REVOLUTION 5 Running Shoes For Men                                               
+8   ₹ 61,990   brand_name_null    Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466 
+9   ₹ 1,12,990 brand_name_null    Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A    
+10  ₹ 1,06,990 brand_name_null    Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A    
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  / / / / / / / / / / / / / / / / / / / / / /      2020-02-02 15:11:10.583983     / / / / / / / / / / / / / / / / / / / / / /  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+1   ₹709       brand_name_null           Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
+2   ₹719       brand_name_null           Portronics MyBuddy Hexa II POR-571 Laptop Stand                                  
+3   ₹711       brand_name_null           spincart Adjustable Laptop Stand Laptop Stand                                    
+4   ₹699       brand_name_null           dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
+5   ₹1,799     brand_name_null           ELV Adjustable Laptop Stand                                                      
+6   ₹1,099     brand_name_null           Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand 
+7   ₹2,956     Nike                      REVOLUTION 5 Running Shoes For Men                                               
+8   ₹61,990    brand_name_null           Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466 
+9   ₹1,12,990  brand_name_null           Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A    
+10  ₹1,06,990  brand_name_null           Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A    
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  / / / / / / / / / / / / / / / / / / / / / /      2020-02-02 15:10:40.966457     / / / / / / / / / / / / / / / / / / / / / /  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+1   ₹709       brand_name_unavailable    Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
+2   ₹719       brand_name_unavailable    Portronics MyBuddy Hexa II POR-571 Laptop Stand                                  
+3   ₹711       brand_name_unavailable    spincart Adjustable Laptop Stand Laptop Stand                                    
+4   ₹699       brand_name_unavailable    dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
+5   ₹1,799     brand_name_unavailable    ELV Adjustable Laptop Stand                                                      
+6   ₹1,099     brand_name_unavailable    Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand 
+7   ₹2,956     Nike                      REVOLUTION 5 Running Shoes For Men                                               
+8   ₹61,990    brand_name_unavailable    Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466 
+9   ₹1,12,990  brand_name_unavailable    Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A    
+10  ₹1,06,990  brand_name_unavailable    Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A    
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  / / / / / / / / / / / / / / / / / / / / / /      2020-02-02 15:10:05.595967     / / / / / / / / / / / / / / / / / / / / / /  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+1   ₹709       brand_name_unavailable Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
+2   ₹719       brand_name_unavailable Portronics MyBuddy Hexa II POR-571 Laptop Stand                                  
+3   ₹711       brand_name_unavailable spincart Adjustable Laptop Stand Laptop Stand                                    
+4   ₹699       brand_name_unavailable dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
+5   ₹1,799     brand_name_unavailable ELV Adjustable Laptop Stand                                                      
+6   ₹1,099     brand_name_unavailable Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand 
+7   ₹2,956     Nike                 REVOLUTION 5 Running Shoes For Men                                               
+8   ₹61,990    brand_name_unavailable Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466 
+9   ₹1,12,990  brand_name_unavailable Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A    
+10  ₹1,06,990  brand_name_unavailable Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A    
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  / / / / / / / / / / / / / / / / / / / / / /      2020-02-02 15:09:11.926212     / / / / / / / / / / / / / / / / / / / / / /  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+1   ₹709     brand_name_unavailable Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
+2   ₹719     brand_name_unavailable Portronics MyBuddy Hexa II POR-571 Laptop Stand                                  
+3   ₹711     brand_name_unavailable spincart Adjustable Laptop Stand Laptop Stand                                    
+4   ₹699     brand_name_unavailable dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
+5   ₹1,799   brand_name_unavailable ELV Adjustable Laptop Stand                                                      
+6   ₹1,099   brand_name_unavailable Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand 
+7   ₹2,956   Nike       REVOLUTION 5 Running Shoes For Men                                               
+8   ₹61,990  brand_name_unavailable Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466 
+9   ₹1,12,990 brand_name_unavailable Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A    
+10  ₹1,06,990 brand_name_unavailable Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A    
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  / / / / / / / / / / / / / / / / / / / / / /      2020-02-02 15:08:40.379008     / / / / / / / / / / / / / / / / / / / / / /  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+1   ₹709    brand_name_unavailable     Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand
+2   ₹719    brand_name_unavailable     Portronics MyBuddy Hexa II POR-571 Laptop Stand
+3   ₹711    brand_name_unavailable     spincart Adjustable Laptop Stand Laptop Stand
+4   ₹699    brand_name_unavailable     dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand
+5   ₹1,799    brand_name_unavailable     ELV Adjustable Laptop Stand
+6   ₹1,099    brand_name_unavailable     Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand
+7   ₹2,956    Nike      REVOLUTION 5 Running Shoes For Men
+8   ₹61,990    brand_name_unavailable     Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466
+9   ₹1,12,990    brand_name_unavailable     Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A
+10   ₹1,06,990    brand_name_unavailable     Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+|------------------------------------------------------------------------------------|
+|  / / / / / / / / / / /      2020-02-02 15:01:37.660436      / / / / / / / / / / /  |
+|------------------------------------------------------------------------------------|
+1   ₹709    Brand unavailable     Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand
+2   ₹719    Brand unavailable     Portronics MyBuddy Hexa II POR-571 Laptop Stand
+3   ₹711    Brand unavailable     spincart Adjustable Laptop Stand Laptop Stand
+4   ₹699    Brand unavailable     dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand
+5   ₹1,799    Brand unavailable     ELV Adjustable Laptop Stand
+6   ₹1,099    Brand unavailable     Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand
+7   ₹2,956    Nike      REVOLUTION 5 Running Shoes For Men
+8   ₹61,990    Brand unavailable     Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466
+9   ₹1,12,990    Brand unavailable     Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A
+10   ₹1,06,990    Brand unavailable     Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A
+|------------------------------------------------------------------------------------|
+
+
+|------------------------------------------------------------------------------------|
+|  / / / / / / / / / / /      2020-02-02 15:00:40.698209      / / / / / / / / / / /  |
+|------------------------------------------------------------------------------------|
+1 709 Brand unavailable Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand
+2 719 Brand unavailable Portronics MyBuddy Hexa II POR-571 Laptop Stand
+3 711 Brand unavailable spincart Adjustable Laptop Stand Laptop Stand
+4 699 Brand unavailable dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand
+5 1,799 Brand unavailable ELV Adjustable Laptop Stand
+6 1,099 Brand unavailable Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand
+7 2,956 Nike  REVOLUTION 5 Running Shoes For Men
+8 61,990 Brand unavailable Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466
+9 1,12,990 Brand unavailable Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A
+10 1,06,990 Brand unavailable Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A
+|------------------------------------------------------------------------------------|
+
+
+|------------------------------------------------------------------------------------|
+|  / / / / / / / / / / /      2020-02-02 14:59:46.115187      / / / / / / / / / / /  |
+|------------------------------------------------------------------------------------|
+0709Brand unavailableTarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand
+1719Brand unavailablePortronics MyBuddy Hexa II POR-571 Laptop Stand
+2711Brand unavailablespincart Adjustable Laptop Stand Laptop Stand
+3699Brand unavailabledezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand
+41,799Brand unavailableELV Adjustable Laptop Stand
+51,099Brand unavailableSmiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand
+62,956Nike REVOLUTION 5 Running Shoes For Men
+761,990Brand unavailableApple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466
+81,12,990Brand unavailableApple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A
+91,06,990Brand unavailableApple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A
+|------------------------------------------------------------------------------------|
+
+
+|------------------------------------------------------------------------------------|
+|  / / / / / / / / / / /      2020-02-02 14:59:22.635550      / / / / / / / / / / /  |
+|------------------------------------------------------------------------------------|
+['Brand unavailable', 'Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand', '709']
+['Brand unavailable', 'spincart Adjustable Laptop Stand Laptop Stand', '711']
+['Brand unavailable', 'Portronics MyBuddy Hexa II POR-571 Laptop Stand', '719']
+['Brand unavailable', 'dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand', '699']
+['Brand unavailable', 'ELV Adjustable Laptop Stand', '1,799']
+['Brand unavailable', 'Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand', '1,099']
+['Nike\xa0', 'REVOLUTION 5 Running Shoes For Men', '2,956']
+['Brand unavailable', 'Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466', '61,990']
+['Brand unavailable', 'Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A', '1,12,990']
+['Brand unavailable', 'Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A', '1,06,990']
+|------------------------------------------------------------------------------------|
+
+
+|------------------------------------------------------------------------------------|
+|  / / / / / / / / / / /      2020-02-02 14:54:36.770697      / / / / / / / / / / /  |
+|------------------------------------------------------------------------------------|
+['Brand unavailable', 'Portronics MyBuddy Hexa II POR-571 Laptop Stand', '719']
+['Brand unavailable', 'dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand', '699']
+['Brand unavailable', 'spincart Adjustable Laptop Stand Laptop Stand', '711']
+['Brand unavailable', 'Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand', '709']
+['Brand unavailable', 'ELV Adjustable Laptop Stand', '1,799']
+['Brand unavailable', 'Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand', '1,099']
+['Nike\xa0</span>]', 'REVOLUTION 5 Running Shoes For Men', '2,956']
+['Brand unavailable', 'Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466', '61,990']
+['Brand unavailable', 'Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A', '1,12,990']
+['Brand unavailable', 'Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A', '1,06,990']
+|------------------------------------------------------------------------------------|
+
+
+|------------------------------------------------------------------------------------|
+|  / / / / / / / / / / /      2020-02-02 14:54:01.359415      / / / / / / / / / / /  |
+|------------------------------------------------------------------------------------|
+['Brand unavailable', 'Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand', '709']
+['Brand unavailable', 'Portronics MyBuddy Hexa II POR-571 Laptop Stand', '719']
+['Brand unavailable', 'spincart Adjustable Laptop Stand Laptop Stand', '711']
+['Brand unavailable', 'dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand', '699']
+['Brand unavailable', 'Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand', '1,099']
+['Nike\xa0</span>]', 'REVOLUTION 5 Running Shoes For Men', '2,956']
+['Brand unavailable', 'ELV Adjustable Laptop Stand', '1,799']
+['Brand unavailable', 'Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466', '61,990']
+['Brand unavailable', 'Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A', '1,06,990']
+['Brand unavailable', 'Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A', '1,12,990']
+|------------------------------------------------------------------------------------|
+
+
+|------------------------------------------------------------------------------------|
+|  / / / / / / / / / / /      2020-02-02 14:53:02.223546      / / / / / / / / / / /  |
+|------------------------------------------------------------------------------------|
+['Brand unavailable', 'Portronics MyBuddy Hexa II POR-571 Laptop Stand', '719']
+['Brand unavailable', 'dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand', '699']
+['Brand unavailable', 'spincart Adjustable Laptop Stand Laptop Stand', '711']
+['Brand unavailable', 'Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand', '709']
+['Brand unavailable', 'ELV Adjustable Laptop Stand', '1,799']
+['Brand unavailable', 'Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand', '1,099']
+['Nike\xa0</span>]', 'REVOLUTION 5 Running Shoes For Men', '2,956']
+['Brand unavailable', 'Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466', '61,990']
+['Brand unavailable', 'Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A', '1,12,990']
+['Brand unavailable', 'Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A', '1,06,990']
+|------------------------------------------------------------------------------------|
+
+
+|------------------------------------------------------------------------------------|
+|  / / / / / / / / / / /      2020-02-02 14:50:42.737914      / / / / / / / / / / /  |
+|------------------------------------------------------------------------------------|
+['Brand unavailable', 'spincart Adjustable Laptop Stand Laptop Stand', '711']
+['Brand unavailable', 'dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand', '699']
+['Brand unavailable', 'Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand', '709']
+['Brand unavailable', 'Portronics MyBuddy Hexa II POR-571 Laptop Stand', '719']
+['Nike\xa0</span>]', 'REVOLUTION 5 Running Shoes For Men', '2,956']
+['Brand unavailable', 'ELV Adjustable Laptop Stand', '1,799']
+['Brand unavailable', 'Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand', '1,099']
+['Brand unavailable', 'Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466', '61,990']
+['Brand unavailable', 'Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A', '1,12,990']
+['Brand unavailable', 'Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A', '1,06,990']
+|------------------------------------------------------------------------------------|
+
+
+|------------------------------------------------------------------------------------|
+|  / / / / / / / / / / /      2020-02-02 14:48:37.067983      / / / / / / / / / / /  |
+|------------------------------------------------------------------------------------|
+['[]', 'spincart Adjustable Laptop Stand Laptop Stand', '711']
+['[]', 'dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand', '699']
+['[]', 'Portronics MyBuddy Hexa II POR-571 Laptop Stand', '719']
+['[]', 'Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand', '709']
+['Nike\xa0', 'REVOLUTION 5 Running Shoes For Men', '2,956']
+['[]', 'ELV Adjustable Laptop Stand', '1,799']
+['[]', 'Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand', '1,099']
+['[]', 'Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466', '61,990']
+['[]', 'Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A', '1,06,990']
+['[]', 'Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A', '1,12,990']
+|------------------------------------------------------------------------------------|
+
+
+|------------------------------------------------------------------------------------|
+|  / / / / / / / / / / /      2020-02-02 14:46:34.680871      / / / / / / / / / / /  |
+|------------------------------------------------------------------------------------|
+['Nike\xa0', 'REVOLUTION 5 Running Shoes For Men', '2,956']
+|------------------------------------------------------------------------------------|
+
+
 |------------------------------------------------------------------------------------|
 |  / / / / / / / / / / /      2020-02-02 14:40:10.312849      / / / / / / / / / / /  |
 |------------------------------------------------------------------------------------|
