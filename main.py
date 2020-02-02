@@ -37,7 +37,6 @@ def get_price(link, op_id):
 
     op_price_list[op_id] = [brand_tags_list_lt[0],
                             item_tags_list_lt[0], "₹ " + price_rate_rt[0]]
-    # print(price_rate_rt[0])
 
 
 def file_len(fname):
