@@ -13,7 +13,6 @@ def get_price(link, op_id):
     results = soup.find(
         'div', attrs={'class': '_3Z5yZS NDB7oB _12iFZG _3PG6Wd'})
 
-    
     price = results.findAll('div', attrs={'class': '_1vC4OE _3qQ9m1'})
     price = str(price)
     price_rate_lt = price.split("₹", 1)
@@ -29,14 +28,15 @@ def get_price(link, op_id):
         except:
             brand_tags_list_lt[0] = brand_tags
     else:
-        brand_tags_list_lt[0] = "brand_name_null" 
+        brand_tags_list_lt[0] = "brand_name_null"
 
     item_tags = results.findAll('span', attrs={'class': '_35KyD6'})
     item_tags = str(item_tags)
     item_tags_list = item_tags.split(">", 1)
     item_tags_list_lt = item_tags_list[1].split("<", 1)
 
-    op_price_list[op_id] = [brand_tags_list_lt[0], item_tags_list_lt[0], "₹ " + price_rate_rt[0]]
+    op_price_list[op_id] = [brand_tags_list_lt[0],
+                            item_tags_list_lt[0], "₹ " + price_rate_rt[0]]
     # print(price_rate_rt[0])
 
 
@@ -74,20 +74,21 @@ def op_to_file(dest):
             f.write(
                 "|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n")
             date_time = "|  / / / / / / / / / / / / / / / / / / / / / /      " + \
-                str(datetime.datetime.now()) + "     / / / / / / / / / / / / / / / / / / / / / /  |"
+                str(datetime.datetime.now()) + \
+                "     / / / / / / / / / / / / / / / / / / / / / /  |"
             f.write("%s\n" % date_time)
             f.write(
                 "|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n")
-        
+
         f.write("\n")
         for i in range(ip_count):
-            f.write("{:3s} {:13s} {:18s} {:80s} \n".format(str(i + 1), op_price_list[i][2], op_price_list[i][0], op_price_list[i][1]))
-        
+            f.write("{:3s} {:13s} {:18s} {:80s} \n".format(
+                str(i + 1), op_price_list[i][2], op_price_list[i][0], op_price_list[i][1]))
+
         f.write("\n\n")
         f.write("Exec. time:      {}\n".format(time_spend))
         f.write(str(platform.uname()) + "\n")
         f.write("\n\n")
-
 
         if (dest != 0):
             f.write(
