@@ -36,7 +36,7 @@ def get_price(link, op_id):
     item_tags_list_lt = item_tags_list[1].split("<", 1)
 
     op_price_list[op_id] = [brand_tags_list_lt[0],
-                            item_tags_list_lt[0], "₹ " + price_rate_rt[0]]
+                            item_tags_list_lt[0], price_rate_rt[0]]
 
 
 def file_len(fname):
@@ -82,7 +82,7 @@ def op_to_file(dest):
         f.write("\n")
         for i in range(ip_count):
             f.write("{:3s} {:13s} {:18s} {:80s} \n".format(
-                str(i + 1), op_price_list[i][2], op_price_list[i][0], op_price_list[i][1]))
+                str(i + 1), "Rs. " + op_price_list[i][2], op_price_list[i][0], op_price_list[i][1]))
 
         f.write("\n\n")
         f.write("Exec. time:      {}\n".format(time_spend))
