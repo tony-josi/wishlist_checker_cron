@@ -86,7 +86,7 @@ def op_to_file(dest):
 
         f.write("\n\n")
         f.write("Exec. time:      {}\n".format(time_spend))
-        f.write(str(platform.uname()) + "\n")
+        f.write(str(platform.node()) + "\n")
         f.write("\n\n")
 
         if (dest != 0):
