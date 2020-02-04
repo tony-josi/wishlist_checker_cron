@@ -1,182 +1,75 @@
 
 
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  / / / / / / / / / / / / / / / / / / / / / /      2020-02-04 15:36:11.271152     / / / / / / / / / / / / / / / / / / / / / /  |
+|  / / / / / / / / / / / / / / / / / / / / / /      2020-02-04 22:26:16.779521     / / / / / / / / / / / / / / / / / / / / / /  |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-1   Rs. 709       brand_name_null    Tarkan 360� Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360� Rotating Multi Angle Ventilated Stand Laptop Stand 
+1   Rs. 709       brand_name_null    Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
 2   Rs. 799       brand_name_null    Portronics MyBuddy Hexa II POR-571 Laptop Stand                                  
 3   Rs. 749       brand_name_null    spincart Adjustable Laptop Stand Laptop Stand                                    
-4   Rs. 699       brand_name_null    dezful 360� Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360� Rotating Multi Angle Ventilated Stand Laptop Stand 
+4   Rs. 699       brand_name_null    dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
 5   Rs. 1,799     brand_name_null    ELV Adjustable Laptop Stand                                                      
-6   Rs. 1,099     brand_name_null    Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY � Laptop Stand Laptop Stand 
-7   Rs. 2,956     Nike�              REVOLUTION 5 Running Shoes For Men                                               
+6   Rs. 1,099     brand_name_null    Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand 
+7   Rs. 2,579     Nike               REVOLUTION 5 Running Shoes For Men                                               
 8   Rs. 66,990    brand_name_null    Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466 
 9   Rs. 1,12,990  brand_name_null    Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A    
 10  Rs. 1,06,990  brand_name_null    Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A    
-11  Rs. 2,579     ADIDAS�            Erdiga 3 M Running Shoes For Men                                                 
-12  Rs. 2,389     ADIDAS�            Fluo M Running Shoes For Men                                                     
+11  Rs. 2,579     ADIDAS             Erdiga 3 M Running Shoes For Men                                                 
+12  Rs. 2,389     ADIDAS             Fluo M Running Shoes For Men                                                     
+
+
+Exec. time:      3.012242317199707
+Tonys-MacBook-Air.local
+
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  / / / / / / / / / / / / / / / / / / / / / /      2020-02-04 22:25:17.147978     / / / / / / / / / / / / / / / / / / / / / /  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+1   Rs. 709       brand_name_null    Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
+2   Rs. 799       brand_name_null    Portronics MyBuddy Hexa II POR-571 Laptop Stand                                  
+3   Rs. 749       brand_name_null    spincart Adjustable Laptop Stand Laptop Stand                                    
+4   Rs. 699       brand_name_null    dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
+5   Rs. 1,799     brand_name_null    ELV Adjustable Laptop Stand                                                      
+6   Rs. 1,099     brand_name_null    Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand 
+7   Rs. 2,579     Nike               REVOLUTION 5 Running Shoes For Men                                               
+8   Rs. 66,990    brand_name_null    Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466 
+9   Rs. 1,12,990  brand_name_null    Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A    
+10  Rs. 1,06,990  brand_name_null    Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A    
+11  Rs. 2,579     ADIDAS             Erdiga 3 M Running Shoes For Men                                                 
+12  Rs. 2,389     ADIDAS             Fluo M Running Shoes For Men                                                     
+
+
+Exec. time:      2.9411261081695557
+Tonys-MacBook-Air.local
+
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  / / / / / / / / / / / / / / / / / / / / / /      2020-02-04 15:36:11.271152     / / / / / / / / / / / / / / / / / / / / / /  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+1   Rs. 709       brand_name_null    Tarkan 360� Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360� Rotating Multi Angle Ventilated Stand Laptop Stand 
+2   Rs. 799       brand_name_null    Portronics MyBuddy Hexa II POR-571 Laptop Stand                                  
+3   Rs. 749       brand_name_null    spincart Adjustable Laptop Stand Laptop Stand                                    
+4   Rs. 699       brand_name_null    dezful 360� Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360� Rotating Multi Angle Ventilated Stand Laptop Stand 
+5   Rs. 1,799     brand_name_null    ELV Adjustable Laptop Stand                                                      
+6   Rs. 1,099     brand_name_null    Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY � Laptop Stand Laptop Stand 
+7   Rs. 2,956     Nike�              REVOLUTION 5 Running Shoes For Men                                               
+8   Rs. 66,990    brand_name_null    Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466 
+9   Rs. 1,12,990  brand_name_null    Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A    
+10  Rs. 1,06,990  brand_name_null    Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A    
+11  Rs. 2,579     ADIDAS�            Erdiga 3 M Running Shoes For Men                                                 
+12  Rs. 2,389     ADIDAS�            Fluo M Running Shoes For Men                                                     
 
 
 Exec. time:      3.3132212162017822
 TJOSI-T01
 
-
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  / / / / / / / / / / / / / / / / / / / / / /      2020-02-04 09:42:40.595319     / / / / / / / / / / / / / / / / / / / / / /  |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-1   Rs. 709       brand_name_null    Tarkan 360� Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360� Rotating Multi Angle Ventilated Stand Laptop Stand 
-2   Rs. 799       brand_name_null    Portronics MyBuddy Hexa II POR-571 Laptop Stand                                  
-3   Rs. 749       brand_name_null    spincart Adjustable Laptop Stand Laptop Stand                                    
-4   Rs. 699       brand_name_null    dezful 360� Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360� Rotating Multi Angle Ventilated Stand Laptop Stand 
-5   Rs. 1,799     brand_name_null    ELV Adjustable Laptop Stand                                                      
-6   Rs. 1,099     brand_name_null    Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY � Laptop Stand Laptop Stand 
-7   Rs. 2,956     Nike�              REVOLUTION 5 Running Shoes For Men                                               
-8   Rs. 66,990    brand_name_null    Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466 
-9   Rs. 1,12,990  brand_name_null    Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A    
-10  Rs. 1,06,990  brand_name_null    Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A    
-11  Rs. 2,579     ADIDAS�            Erdiga 3 M Running Shoes For Men                                                 
-12  Rs. 2,389     ADIDAS�            Fluo M Running Shoes For Men                                                     
-
-
-Exec. time:      2.7739009857177734
-
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  / / / / / / / / / / / / / / / / / / / / / /      2020-02-03 23:41:05.486885     / / / / / / / / / / / / / / / / / / / / / /  |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-1   ₹ 709         brand_name_null    Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
-2   ₹ 719         brand_name_null    Portronics MyBuddy Hexa II POR-571 Laptop Stand                                  
-3   ₹ 711         brand_name_null    spincart Adjustable Laptop Stand Laptop Stand                                    
-4   ₹ 699         brand_name_null    dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
-5   ₹ 1,799       brand_name_null    ELV Adjustable Laptop Stand                                                      
-6   ₹ 1,099       brand_name_null    Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand 
-7   ₹ 2,956       Nike               REVOLUTION 5 Running Shoes For Men                                               
-8   ₹ 61,990      brand_name_null    Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466 
-9   ₹ 1,12,990    brand_name_null    Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A    
-10  ₹ 1,06,990    brand_name_null    Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A    
-11  ₹ 2,579       ADIDAS             Erdiga 3 M Running Shoes For Men                                                 
-12  ₹ 2,389       ADIDAS             Fluo M Running Shoes For Men                                                     
-
-
-Exec. time:      2.920370101928711
-
-|  / / / / / / / / / / / / / / / / / / / / / /      2020-02-03 09:53:41.178769     / / / / / / / / / / / / / / / / / / / / / /  |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-1   Rs. 709       brand_name_null    Tarkan 360� Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360� Rotating Multi Angle Ventilated Stand Laptop Stand 
-2   Rs. 719       brand_name_null    Portronics MyBuddy Hexa II POR-571 Laptop Stand                                  
-3   Rs. 711       brand_name_null    spincart Adjustable Laptop Stand Laptop Stand                                    
-4   Rs. 699       brand_name_null    dezful 360� Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360� Rotating Multi Angle Ventilated Stand Laptop Stand 
-5   Rs. 1,799     brand_name_null    ELV Adjustable Laptop Stand                                                      
-6   Rs. 1,099     brand_name_null    Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY � Laptop Stand Laptop Stand 
-7   Rs. 2,956     Nike�              REVOLUTION 5 Running Shoes For Men                                               
-8   Rs. 61,990    brand_name_null    Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466 
-9   Rs. 1,12,990  brand_name_null    Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A    
-10  Rs. 1,06,990  brand_name_null    Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A    
-11  Rs. 2,579     ADIDAS�            Erdiga 3 M Running Shoes For Men                                                 
-12  Rs. 2,389     ADIDAS�            Fluo M Running Shoes For Men                                                     
-
-
-Exec. time:      2.5121543407440186
-
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  / / / / / / / / / / / / / / / / / / / / / /      2020-02-02 22:04:43.038742     / / / / / / / / / / / / / / / / / / / / / /  |
-|  / / / / / / / / / / / / / / / / / / / / / /      2020-02-03 09:46:27.250101     / / / / / / / / / / / / / / / / / / / / / /  |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-1    709          brand_name_null    Tarkan 360� Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360� Rotating Multi Angle Ventilated Stand Laptop Stand 
-2    719          brand_name_null    Portronics MyBuddy Hexa II POR-571 Laptop Stand                                  
-3    711          brand_name_null    spincart Adjustable Laptop Stand Laptop Stand                                    
-4    699          brand_name_null    dezful 360� Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360� Rotating Multi Angle Ventilated Stand Laptop Stand 
-5    1,799        brand_name_null    ELV Adjustable Laptop Stand                                                      
-6    1,099        brand_name_null    Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY � Laptop Stand Laptop Stand 
-7    2,956        Nike�              REVOLUTION 5 Running Shoes For Men                                               
-8    61,990       brand_name_null    Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466 
-9    1,12,990     brand_name_null    Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A    
-10   1,06,990     brand_name_null    Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A    
-11   2,579        ADIDAS�            Erdiga 3 M Running Shoes For Men                                                 
-12   2,389        ADIDAS�            Fluo M Running Shoes For Men                                                     
-
-
-Exec. time:      2.500664472579956
-
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  / / / / / / / / / / / / / / / / / / / / / /      2020-02-03 09:29:35.492600     / / / / / / / / / / / / / / / / / / / / / /  |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-1   ₹ 709         brand_name_null    Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
-2   ₹ 719         brand_name_null    Portronics MyBuddy Hexa II POR-571 Laptop Stand                                  
-3   ₹ 711         brand_name_null    spincart Adjustable Laptop Stand Laptop Stand                                    
-4   ₹ 699         brand_name_null    dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
-5   ₹ 1,799       brand_name_null    ELV Adjustable Laptop Stand                                                      
-6   ₹ 1,099       brand_name_null    Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand 
-7   ₹ 2,956       Nike               REVOLUTION 5 Running Shoes For Men                                               
-8   ₹ 61,990      brand_name_null    Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466 
-9   ₹ 1,12,990    brand_name_null    Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A    
-10  ₹ 1,06,990    brand_name_null    Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A    
-11  ₹ 2,579       ADIDAS             Erdiga 3 M Running Shoes For Men                                                 
-12  ₹ 2,389       ADIDAS             Fluo M Running Shoes For Men                                                     
-
-
-Exec. time:      2.91898775100708
-
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  / / / / / / / / / / / / / / / / / / / / / /      2020-02-02 15:28:49.292715     / / / / / / / / / / / / / / / / / / / / / /  |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-1   ₹ 709         brand_name_null    Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
-2   ₹ 719         brand_name_null    Portronics MyBuddy Hexa II POR-571 Laptop Stand                                  
-3   ₹ 711         brand_name_null    spincart Adjustable Laptop Stand Laptop Stand                                    
-4   ₹ 699         brand_name_null    dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
-5   ₹ 1,799       brand_name_null    ELV Adjustable Laptop Stand                                                      
-6   ₹ 1,099       brand_name_null    Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand 
-7   ₹ 2,956       Nike               REVOLUTION 5 Running Shoes For Men                                               
-8   ₹ 61,990      brand_name_null    Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466 
-9   ₹ 1,12,990    brand_name_null    Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A    
-10  ₹ 1,06,990    brand_name_null    Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A    
-11  ₹ 2,450       ADIDAS             Erdiga 3 M Running Shoes For Men                                                 
-12  ₹ 2,269       ADIDAS             Fluo M Running Shoes For Men                                                     
-
-
-Exec. time:      5.355492830276489
-
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  / / / / / / / / / / / / / / / / / / / / / /      2020-02-02 15:27:44.707096     / / / / / / / / / / / / / / / / / / / / / /  |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-1   ₹ 709         brand_name_null    Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
-2   ₹ 719         brand_name_null    Portronics MyBuddy Hexa II POR-571 Laptop Stand                                  
-3   ₹ 711         brand_name_null    spincart Adjustable Laptop Stand Laptop Stand                                    
-4   ₹ 699         brand_name_null    dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
-5   ₹ 1,799       brand_name_null    ELV Adjustable Laptop Stand                                                      
-6   ₹ 1,099       brand_name_null    Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand 
-7   ₹ 2,956       Nike               REVOLUTION 5 Running Shoes For Men                                               
-8   ₹ 61,990      brand_name_null    Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466 
-9   ₹ 1,12,990    brand_name_null    Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A    
-10  ₹ 1,06,990    brand_name_null    Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A    
-
-
-Exec. time:      5.15577507019043
 
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
