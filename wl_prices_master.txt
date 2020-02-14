@@ -1,6 +1,31 @@
 
 
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  / / / / / / / / / / / / / / / / / / / / / /      2020-02-14 18:57:25.906177     / / / / / / / / / / / / / / / / / / / / / /  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+1   Rs. 709       brand_name_null    Tarkan 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
+2   Rs. 799       brand_name_null    Portronics MyBuddy Hexa II POR-571 Laptop Stand                                  
+3   Rs. 749       brand_name_null    spincart Adjustable Laptop Stand Laptop Stand                                    
+4   Rs. 699       brand_name_null    dezful 360° Rotating Multi Angle Ventilated Stand for All 12 to 15.6 Inch Laptops Notebook MacBook Air Pro with Mobile Holder (Black) T3 COOL COULD 360° Rotating Multi Angle Ventilated Stand Laptop Stand 
+5   Rs. 1,799     brand_name_null    ELV Adjustable Laptop Stand                                                      
+6   Rs. 1,099     brand_name_null    Smiledrive COOLING MULTI-FUNCTION LAPTOP METAL TABLET STAND, BRACKET FOR MACBOOK AIR MACBOOK PRO, IPAD PRO SURFACE PRO &amp; OTHER LAPTOP NOTEBOOK ACCESSORY – Laptop Stand Laptop Stand 
+7   Rs. 2,956     Nike               Revolution 5 Running Shoes For Men                                               
+8   Rs. 64,990    brand_name_null    Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466 
+9   Rs. 1,12,990  brand_name_null    Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXR2HN/A    
+10  Rs. 1,06,990  brand_name_null    Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A    
+11  Rs. 2,356     ADIDAS             Erdiga 3 M Running Shoes For Men                                                 
+12  Rs. 2,389     ADIDAS             Fluo M Running Shoes For Men                                                     
+
+
+Exec. time:      3.0342488288879395
+TJOSI-T01
+
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  / / / / / / / / / / / / / / / / / / / / / /      2020-02-10 15:39:20.634566     / / / / / / / / / / / / / / / / / / / / / /  |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
